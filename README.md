@@ -2,7 +2,7 @@
 
 ---
 
-Hi, I am a algorithm enthusiast. I love learing new algorithm to solve practical problem.
+Hi, I am a algorithm enthusiast. I love learing new algorithm to solve practical problems.
 
 <!--
 **hsiuyee/hsiuyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
